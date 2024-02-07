@@ -28,7 +28,7 @@
         }
     }
     </style>
-    <!-- Custom styles for this template -->
+    <!--his template -->
     <link href="jumbotron.css" rel="stylesheet">
 </head>
 
