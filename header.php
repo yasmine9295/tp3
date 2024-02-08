@@ -9,10 +9,10 @@
     <meta name="generator" content="Jekyll v3.8.5">
     <title>Jumbotron Template · Bootstrap</title>
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/4.2/examples/jumbotron/">
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://bootswatch.com/4/cerulean/bootstrap.css">
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.2/examples/jumbotron/">
     <script src="https://kit.fontawesome.com/08fbe9231c.js" crossorigin="anonymous"></script>
         integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 
@@ -64,7 +64,7 @@
                         aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-flag"></i>   Gestion des nationalités</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown01">
                         <a class="dropdown-item" href="listeNationalites.php">Liste des nationalités</a>
-                        <a class="dropdown-item" href="#">Ajouter une nationalité</a>
+                        <a class="dropdown-item" href="formeAjoutNationalite.php">Ajouter une nationalité</a>
                     </div>
                 </li>
             </ul>

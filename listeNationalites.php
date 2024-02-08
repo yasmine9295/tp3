@@ -13,12 +13,13 @@ $lesNationalites=$req->fetchAll();
         <div class="col-9">
             <h2>Liste des nationalités</h2>
         </div>
-        <div class="col-3"><a href="" class='btn btn-success'><i class="fas fa-plus-circle"></i> Créer une
-                nationalité</a> </div>
+        <div class="col-3"><a href="formeAjoutNationalite.php" class='btn btn-success'><i
+                    class="fas fa-plus-circle"></i> Créer une nationalité</a> </div>
     </div>
+
     <table class="table table-hover table-striped">
         <thead>
-                <tr class="d-flex">
+            <tr class="d-flex">
                 <th scope="col" class="col-md-2">Numéro</th>
                 <th scope="col" class=" col-md-8">Libellé</th>
                 <th scope="col" class=" col-md-2">Action</th>
