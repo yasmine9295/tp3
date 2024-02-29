@@ -48,7 +48,7 @@
                         aria-haspopup="true" aria-expanded="false">Gestion des genres</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown01">
                         <a class="dropdown-item" href="listeGenres.php">Liste des genres</a>
-                        <a class="dropdown-item" href="formeGenre.php">Ajouter un genre</a>
+                        <a class="dropdown-item" href="formeGenre.php?action=Ajouter">Ajouter un genre</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -65,7 +65,7 @@
                         aria-haspopup="true" aria-expanded="false"><i class="fa-solid fa-flag"></i>   Gestion des nationalités</a>
                     <div class="dropdown-menu" aria-labelledby="dropdown01">
                         <a class="dropdown-item" href="listeNationalites.php">Liste des nationalités</a>
-                        <a class="dropdown-item" href="formeNationalite.php">Ajouter une nationalité</a>
+                        <a class="dropdown-item" href="formeNationalite.php?action=Ajouter">Ajouter une nationalité</a>
                     </div>
                 </li>
             </ul>

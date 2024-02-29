@@ -31,7 +31,7 @@ if($nb == 1) {
         La nationalitée n\'a pas été '. $message .' </div>';
 }
 ?>
-<a href="listeNationalites.php" class="btn btn-dark"> Revenir à la liste des nationalités </a>
+<a href="listeNationalites.php" class="btn btn-info"> Revenir à la liste des nationalités </a>
 </div>  
 
 
